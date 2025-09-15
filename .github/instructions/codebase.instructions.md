@@ -1,3 +1,7 @@
+---
+applyTo: '**'
+---
+
 Project Path: srs
 
 Source Tree:
